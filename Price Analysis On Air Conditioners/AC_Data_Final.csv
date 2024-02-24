@@ -1,0 +1,756 @@
+,Brands,Model,BEE_Rating,Tons,Reviews_Count,Ratings_Count,Cust_Review,Original_Price,Current_Price,Room_Size,Annual_Power_Usage
+0,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+1,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+2,Voltas,Voltas 2023 Model 0.6 Ton 2 Star Split AC  - White,2,0.6,13,133,4,"₹49,690","₹19,999",90,475.3
+3,Voltas,Voltas 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,244,"2,635",4.1,"₹75,990","₹37,990",111 - 150,751.28
+4,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+5,Voltas,Voltas 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,"1,713","19,291",4.2,"₹62,990","₹31,999",111 - 150,975.26
+6,Whirlpool,Whirlpool Convertible 4-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter 6th Sense Technology AC ...,5,1.5,558,"6,468",4,"₹70,600","₹33,990",111 - 150,761.33
+7,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+8,MarQ,MarQ by Flipkart 2024 Range 1 Ton 3 Star Split Inverter 4-in-1 Convertible with Turbo Cool Technology ...,3,1,104,981,4.3,"₹47,999","₹26,490",90,
+9,Panasonic,Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023 Model 1.5 Ton 3 Star Split Inverter ...,3,1.5,"2,330","19,830",4.3,"₹55,400","₹34,990",111 - 150,1002.72
+10,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+11,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+12,MarQ,MarQ by Flipkart 2023 Range 1.5 Ton 5 Star Split Inverter 4-in-1 Convertible with Turbo Cool Technolog...,5,1.5,299,"2,438",4.3,"₹57,999","₹31,990",111 - 150,781.95
+13,Panasonic,Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023 Model 1.5 Ton 5 Star Split Inverter ...,5,1.5,"2,330","19,830",4.3,"₹63,400","₹42,990",111 - 150,774.19
+14,Voltas,Voltas 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,"1,713","19,291",4.2,"₹75,990","₹37,990",111 - 150,751.28
+15,Daikin,Daikin 2023 Model 1.5 Ton 3 Star Split Inverter AC with PM 2.5 Filter  - White,3,1.5,354,"3,683",4.2,"₹58,400","₹36,990",111 - 150,966.47
+16,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+17,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+18,Whirlpool,Whirlpool Convertible 4-in-1 Cooling 2023 Model 1.5 Ton 4 Star Split Inverter 6th Sense Technology AC ...,4,1.5,558,"6,468",4,"₹66,900","₹32,490",111 - 150,854.16
+19,Whirlpool,Whirlpool Convertible 4-in-1 Cooling 2023 Model 1 Ton 5 Star Split Inverter 6th Sense Technology AC  -...,5,1,558,"6,468",4,"₹64,200","₹31,999",90,515.27
+20,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+21,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+22,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling Mode 2023 Model 1.5 Ton 4 Star Split Inverter AC  - White,4,1.5,313,"3,616",4.1,"₹64,990","₹34,999",111 - 150,850.19
+23,LG,"LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter 4 Way Swing, HD Filter with ...",5,1.5,"2,889","28,367",4.2,"₹75,990","₹43,490",111 - 150,685.26
+24,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 2 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,2,403,"4,378",4.1,"₹60,990","₹40,490",151 - 200,1201.27
+25,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,427,"4,828",4.2,"₹64,990","₹31,999",111 - 150,975.26
+26,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+27,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+28,Hitachi,Hitachi Ice Clean Frost Wash Technology 2023 Model 1.8 Ton 3 Star Split Inverter Xpandable plus Ambien...,3,1.8,217,"2,406",4,"₹73,300","₹43,999",151 - 200,1251
+29,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,"1,713","19,291",4.2,"₹64,990","₹32,499",111 - 150,975.26
+30,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+31,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+32,Panasonic,Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023 Model 1.5 Ton 4 Star Split Inverter ...,4,1.5,"2,330","19,830",4.3,"₹59,400","₹39,490",111 - 150,876.76
+33,LG,LG 2023 Model 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,479,"4,346",4.2,"₹65,990","₹35,490",111 - 150,1053.11
+34,Haier,"Haier Frost Self-Clean 2023 Model 1.5 Ton 5 Star Split Inverter Intelli Convertible 7-in-1, Cooling at...",5,1.5,292,"2,371",4,"₹71,490","₹39,490",111 - 150,743.05
+35,Blue,Blue Star 2023 Model 1 Ton 5 Star Split Inverter AC  - White,5,1,"1,521","13,889",4.2,"₹62,000","₹36,990",90,517.12
+36,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+37,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+38,LG,LG 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,"2,889","28,367",4.2,"₹85,990","₹46,590",111 - 150,
+39,Godrej,Godrej Turbo Mode 2023 Model 1.5 Ton 5 Star Window Inverter Anti-Dust Filter with Anti-Freeze Thermost...,5,1.5,19,131,4.2,"₹49,900","₹28,999",111 - 150,1111.14
+40,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+41,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+42,LG,LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Plasmaster (Ionizer) 4 Way S...,5,1.5,"1,189","10,479",4.2,"₹81,990","₹44,490",111 - 150,685.26
+43,CARRIER,CARRIER 4-in-1 Flexicool 2023 Model 1.5 Ton 3 Star Split Inverter with Anti-Viral Guard & Smart Energy...,3,1.5,82,588,4,"₹72,290","₹34,999",111 - 150,1046.3
+44,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - W...,3,1.5,14,176,4.2,"₹62,390","₹37,999",111 - 150,977.8
+45,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+46,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+47,Blue,Blue Star 1.5 Ton 4 Star Split Inverter AC  - White,4,1.5,"1,521","13,889",4.2,"₹69,500","₹40,990",111 - 150,
+48,LG,LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Plasmaster (Ionizer) 4 Way S...,5,1.5,"1,189","10,479",4.2,"₹81,990","₹44,490",111 - 150,685.26
+49,ONIDA,ONIDA 2023 Model 1 Ton 3 Star Split Inverter AC  - White,3,1,939,"7,988",4.3,"₹40,900","₹27,990",90,696.69
+50,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+51,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+52,CARRIER,CARRIER 4-in-1 Flexicool 2023 Model 1.5 Ton 3 Star Split Inverter with Anti-Viral Guard & Smart Energy...,3,1.5,82,588,4,"₹72,290","₹34,999",111 - 150,1046.3
+53,CANDY,CANDY 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,118,713,4,"₹71,000","₹31,999",111 - 150,735.72
+54,Daikin,Daikin 2023 Model 0.8 Ton 3 Star Split AC with PM 2.5 Filter  - White,3,0.8,182,"1,862",4.1,"₹37,400","₹25,999",90,548.84
+55,Voltas,Voltas 2023 Model 2 Ton 3 Star Split Inverter AC  - White,3,2,"1,713","19,291",4.2,"₹79,990","₹44,999",151 - 200,1220.59
+56,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+57,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+58,Haier,"Haier Frost Self-Clean 2023 Model 1.3 Ton 3 Star Split Inverter Cooling at Extreme Temperature, Super ...",3,1.3,292,"2,371",4,"₹60,490","₹29,999",111 - 150,804.22
+59,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+60,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+61,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+62,Panasonic,Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023 Model 1 Ton 4 Star Split Inverter wi...,4,1,"2,330","19,830",4.3,"₹50,600","₹33,990",90,601.5
+63,CANDY,CANDY 2023 Model 1.5 Ton 4 Star Split Inverter AC  - White,4,1.5,118,713,4,"₹67,000","₹28,999",111 - 150,881.3
+64,Panasonic,Panasonic Convertible 7-in-1 with Additional AI Mode Hot & Cold 2023 Model 1.5 Ton 3 Star Split Invert...,3,1.5,50,426,4.1,"₹61,400","₹41,490",111 - 150,972.89
+65,CARRIER,CARRIER 0.8 Ton 3 Star Split Inverter Cold Catalyst Filter with Auto cleanser(2023 Model) AC  - White,3,0.8,"1,033","10,378",4.1,"₹55,690","₹26,999",90,526.03
+66,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+67,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+68,Voltas,Voltas 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,244,"2,635",4.1,"₹75,990","₹40,110",111 - 150,759.07
+69,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - W...,5,1.5,201,"2,298",4,"₹73,990","₹43,999",111 - 150,749.48
+70,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+71,Blue,Blue Star 1.5 Ton 4 Star Split Inverter AC  - White,4,1.5,"1,521","13,889",4.2,"₹69,500","₹40,990",111 - 150,
+72,Haier,"Haier Frost Self-Clean 2023 Model 1 Ton 3 Star Split Inverter Intelli Convertible 7-in-1, Triple Inver...",3,1,0,10,3.7,"₹60,490","₹34,990",90,694.49
+73,Voltas,Voltas 1 Ton 3 Star Window AC  - White,3,1,11,123,4.1,"₹35,990","₹26,349",90,774.11
+74,Daikin,Daikin 1 Ton 5 Star Split Inverter AC with PM 2.5 Filter  - White,5,1,1,4,4,"₹67,200","₹46,740",90,418.52
+75,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+76,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+77,CARRIER,CARRIER 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,19,255,4.2,"₹69,990","₹33,749",111 - 150,964.1
+78,Voltas,Voltas 2023 Model 2 Ton 5 Star Split Inverter AC  - White,5,2,"1,713","19,291",4.2,"₹93,990","₹53,999",151 - 200,959.19
+79,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+80,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+81,Whirlpool,Whirlpool Convertible 4-in-1 Cooling 2023 Model 1 Ton 5 Star Split Inverter 6th Sense Technology AC  -...,5,1,558,"6,468",4,"₹64,200","₹64,190",90,515.27
+82,SAMSUNG,SAMSUNG 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White,5,1.5,61,499,4.2,"₹67,990","₹38,999",111 - 150,832.8
+83,ONIDA,ONIDA 2023 Model 1 Ton 3 Star Split Inverter AC  - White,3,1,939,"7,988",4.3,"₹40,990","₹28,900",90,696.69
+84,Daikin,Daikin 2023 Model 1 Ton 3 Star Split Inverter AC with PM 2.5 Filter  - White,3,1,354,"3,683",4.2,"₹48,200","₹48,100",90,680.4
+85,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+86,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+87,Lloyd,Lloyd 2023 Model 2 Ton 5 Star Split Inverter AC  - White,5,2,878,"5,312",4.2,"₹86,900","₹57,990",151 - 200,970.29
+88,realme,"realme TechLife 4-in-1 Convertible 1.5 Ton 4 Star Split Inverter , AC  - White",4,1.5,310,"2,033",4.1,"₹52,999","₹30,999",111 - 150,968.61
+89,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+90,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+91,MarQ,MarQ by Flipkart Convertible 4-in-1 Cooling 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,433,"3,371",4,"₹51,999","₹28,999",111 - 150,1056.45
+92,MarQ,MarQ by Flipkart 2023 Range 1.5 Ton 4 Star Split Inverter 4-in-1 Convertible with Turbo Cool Technolog...,4,1.5,299,"2,438",4.3,"₹53,999","₹29,990",111 - 150,1365
+93,Voltas,Voltas 0.75 Ton 3 Star Split AC  - White,3,0.75,235,"2,825",4.1,"₹48,990","₹24,999",90,727.66
+94,Lloyd,Lloyd 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,878,"5,312",4.2,"₹59,990","₹58,999",111 - 150,999.49
+95,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+96,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+97,Voltas,Voltas 1 Ton 3 Star Split Inverter AC  - White,3,1,14,161,3.8,"₹56,990","₹28,990",90,672.93
+98,IFB,"IFB FastCool Convertible 8-in-1 Cooling, 2023 Model 1.6 Ton 3 Star Split Inverter Smart Ready, 7 Stage...",3,1.6,116,944,4.2,"₹53,490","₹36,990",151 - 200,1083.54
+99,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+100,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+101,Lloyd,Lloyd 1 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White,5,1,2,66,4.2,"₹58,990","₹33,990",90,533.89
+102,Lloyd,Lloyd 2023 Model 1.2 Ton 3 Star Split Inverter AC  - White,3,1.2,878,"5,312",4.2,"₹54,990","₹31,499",91 - 110,854.42
+103,LG,LG 1 Ton 5 Star Split Inverter AC  - White,5,1,"2,889","28,367",4.2,"₹75,990","₹39,990",90,
+104,MarQ,MarQ by Flipkart 2023 Range 1.5 Ton 3 Star Split Inverter 4-in-1 Convertible with Turbo Cool Technolog...,3,1.5,198,"1,536",4.3,"₹50,999","₹28,999",111 - 150,987.7
+105,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+106,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+107,MarQ,MarQ by Flipkart 2023 Range 0.7 Ton 3 Star Split Inverter 4-in-1 Convertible with Turbo Cool Technolog...,3,0.7,34,236,4.4,"₹44,449","₹24,999",90,552.95
+108,LG,"LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter 4 Way Swing, HD Filter with ...",5,1.5,425,"4,239",4.3,"₹85,990","₹43,490",111 - 150,685.26
+109,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+110,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+111,Haier,"Haier Frost Self-Clean 2023 Model 1.5 Ton 3 Star Split Inverter Intelli Smart, Intelli Convertible 7-i...",3,1.5,2,13,3.8,"₹67,490","₹38,490",111 - 150,1020.54
+112,Lloyd,Lloyd 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,878,"5,312",4.2,"₹61,990","₹44,900",111 - 150,864.66
+113,IFB,"IFB FastCool Convertible 8-in-1 Cooling, 2023 Model 1.5 Ton 4 Star Split Inverter Smart Ready, 7 Stage...",4,1.5,116,944,4.2,"₹54,990","₹39,999",111 - 150,867.16
+114,Lloyd,Lloyd 2023 Model 1.2 Ton 5 Star Split Inverter AC  - White,5,1.2,878,"5,312",4.2,"₹62,990","₹32,999",91 - 110,635.62
+115,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+116,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+117,Blue,Blue Star 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,2,16,4.5,"₹59,990","₹44,900",111 - 150,774.88
+118,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - W...,3,1.5,8,79,4.2,"₹60,990","₹37,999",111 - 150,977.8
+119,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+120,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+121,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,845,"5,000",4.2,"₹59,990","₹32,990",111 - 150,1002.76
+122,Voltas,Voltas 1 Ton 3 Star Split Inverter AC  - White,3,1,11,97,3.7,"₹56,990","₹29,925",90,682.59
+123,Blue,Blue Star 1.5 Ton 4 Star Split Inverter AC  - White,4,1.5,143,"1,124",4.3,"₹61,000","₹36,999",111 - 150,2070
+124,Voltas,Voltas 2023 Model 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,46,403,4.1,"₹49,990","₹34,089",111 - 150,1114.62
+125,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+126,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+127,SAMSUNG,SAMSUNG 1 Ton 5 Star Split Inverter AC  - White,5,1,3,16,4.3,"₹51,240","₹40,616",90,0
+128,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1 Ton 3 Star Split Inverter Wind Free AC  - White,3,1,178,"1,874",4.1,"₹52,990","₹32,999",90,624.48
+129,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+130,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+131,MarQ,MarQ by Flipkart 2023 Range 1.5 Ton 4 Star Split Inverter 4-in-1 Convertible with Turbo Cool Technolog...,4,1.5,299,"2,438",4.3,"₹53,999","₹29,990",111 - 150,1365
+132,Haier,"Haier Turbo Cool Plus 2023 Model 1 Ton 2 Star Split Extreme Temperature Cooling,Micro Antibacterial Fi...",2,1,0,20,3.9,"₹52,490","₹27,499",90,752.43
+133,Voltas,Voltas 0.75 Ton 3 Star Split AC  - White,3,0.75,235,"2,825",4.1,"₹48,990","₹24,999",90,727.66
+134,Blue,Blue Star 2023 Model 0.8 Ton 3 Star Window AC  - White,3,0.8,131,"1,312",4.1,"₹30,000","₹24,999",90,648.7
+135,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+136,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+137,Thomson,Thomson 2023 Model 1 Ton 2 Star Split With iBreeze Technology AC  - White,2,1,10,71,4.1,"₹36,998","₹25,999",90,732.3
+138,LG,LG 1 Ton 3 Star Split Inverter AC  - White,3,1,"2,889","28,367",4.2,"₹67,990","₹34,990",90,
+139,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+140,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+141,ONIDA,ONIDA 1.6 Ton 4 Star Split Inverter AC  - White,4,1.6,20,189,4.3,"₹61,990","₹31,999",151 - 200,995.55
+142,Lloyd,Lloyd 1 Ton 3 Star Split AC  - White,3,1,111,762,4.2,"₹41,990","₹31,990",90,735.4
+143,Hitachi,"Hitachi 1.5 T 5 Star Split Inverter AC  - White, Gold",5,,217,"2,406",4,"₹65,300","₹41,999",111 - 150,780.6
+144,Lloyd,Lloyd 2023 Model 1.5 Ton 3 Star Split AC  - White,3,1.5,8,81,4.4,"₹62,990","₹62,980",111 - 150,1012.53
+145,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+146,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+147,Godrej,Godrej Turbo Mode 2023 Model 1.5 Ton 3 Star Window Inverter Anti-Dust Filter with Anti-Freeze Thermost...,3,1.5,30,211,4.2,"₹46,900","₹26,990",111 - 150,1262.92
+148,Lloyd,Lloyd 1 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1,60,282,4.3,"₹47,990","₹32,999",90,698.49
+149,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+150,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+151,Blue,"Blue Star Convertible 4 in 1 Cooling 2023 Model 1 Ton 4 Star Split Inverter Multi Sensors, Stabalizer ...",4,1,384,"4,478",4.1,"₹59,500","₹33,999",90,583.06
+152,Panasonic,Panasonic 1 Ton 5 Star Split Inverter AC  - White,5,1,4,57,4.3,"₹49,500","₹33,486",90,573.24
+153,Voltas,Voltas 1.5 Ton 5 Star Window AC  - White,5,1.5,898,"10,029",4.3,"₹34,690","₹29,096",111 - 150,1157.29
+154,IFB,IFB 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,2,20,4,"₹57,640","₹40,999",111 - 150,867.16
+155,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+156,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+157,Haier,"Haier Turbo Cool Plus 2023 Model 1 Ton 2 Star Split Extreme Temperature Cooling,Micro Antibacterial Fi...",2,1,0,20,3.9,"₹52,490","₹30,500",90,752.43
+158,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+159,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+160,Whirlpool,"Whirlpool 2023 Model 1 Ton 3 Star Split AC  - White, Grey",3,1,896,"8,161",4.1,"₹38,000","₹26,999",90,980
+161,Haier,"Haier Frost Self-Clean 2023 Model 1.3 Ton 3 Star Split Inverter Cooling at Extreme Temperature, Super ...",3,1.3,292,"2,371",4,"₹63,999","₹60,999",111 - 150,804.22
+162,Lloyd,Lloyd 2 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White,5,2,0,6,3.8,"₹79,990","₹55,999",151 - 200,1070.16
+163,Lloyd,Lloyd 1 Ton 5 Star Split Inverter AC  - White,5,1,0,7,3.7,"₹58,000","₹36,999",90,574.71
+164,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+165,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+166,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+167,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+168,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹38,500",90,521.6
+169,Haier,Haier 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,292,"2,371",4,"₹65,990","₹33,990",111 - 150,1089.14
+170,Blue,Blue Star 2023 Model 1 Ton Portable Turbo AC  - White,,1,1,4,2.8,"₹39,000","₹33,990",90,
+171,Hitachi,"Hitachi 1 Ton 5 Star Split Inverter AC  - White, Gold",5,1,217,"2,406",4,"₹54,600","₹37,599",90,523.15
+172,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+173,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+174,Voltas,Voltas 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,427,"4,828",4.2,"₹75,990","₹41,399",111 - 150,750.39
+175,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1 Ton 3 Star Split Inverter AC  - White,3,1,313,"3,616",4.1,"₹55,990","₹53,990",90,624.48
+176,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+177,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+178,LG,"LG 1 Ton 3 Star Split Dual Inverter AC  - White, Maroon",3,1,35,237,4.3,"₹47,990","₹34,275",90,685.49
+179,LG,LG 2023 Model 2 Ton 4 Star Window Inverter AC with Wi-fi Connect  - White,4,2,479,"4,346",4.2,"₹75,990","₹50,990",151 - 200,1384.94
+180,MarQ,MarQ by Flipkart Convertible 4-in-1 Cooling 0.8 Ton 3 Star Split Inverter AC  - White,3,0.8,91,688,4,"₹45,499","₹28,888",90,820
+181,Godrej,Godrej Turbo Mode 2023 Model 1.5 Ton 3 Star Window with Anti Corrosive Blue Fin AC  - White,3,1.5,30,334,4,,"₹41,900",111 - 150,1216.12
+182,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+183,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+184,Haier,"Haier Heavy Duty 2023 Model 2 Ton 3 Star Split Inverter Frost Self Clean, Triple Inverter Plus Technol...",3,2,292,"2,371",4,"₹88,990","₹52,990",151 - 200,1276.55
+185,Hitachi,Hitachi 2023 Model 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,0,10,3.5,"₹48,590","₹39,449",111 - 150,1068.21
+186,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+187,Blue,Blue Star 1.5 Ton 4 Star Split Inverter AC  - White,4,1.5,"1,521","13,889",4.2,"₹69,500","₹40,990",111 - 150,
+188,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,13,135,4,"₹62,990","₹33,549",111 - 150,998.42
+189,Blue,"Blue Star 1.5 Ton 5 Star Split Inverter AC  - White, Brown",5,1.5,39,230,4.4,"₹63,000","₹47,003",111 - 150,1450
+190,MarQ,MarQ by Flipkart 1.5 Ton 3 Star Split AC  - White,3,1.5,"1,379","10,559",4.2,"₹44,999","₹20,999",111 - 150,1093.4
+191,MarQ,MarQ by Flipkart 1 Ton 3 Star Split AC  - White,3,1,"1,379","10,559",4.2,"₹36,999","₹17,999",90,741.59
+192,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+193,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+194,Lloyd,Lloyd 2023 Model 1.2 Ton 5 Star Split Inverter AC  - White,5,1.2,878,"5,312",4.2,"₹62,990","₹62,890",91 - 110,635.62
+195,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - W...,5,1.5,201,"2,298",4,"₹78,990","₹76,990",111 - 150,749.48
+196,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+197,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+198,Daikin,Daikin 1 Ton 3 Star Split AC with PM 2.5 Filter  - White,3,1,182,"1,862",4.1,"₹46,000","₹32,990",90,656.44
+199,Blue,Blue Star 2 Ton 3 Star Split Inverter AC  - White,3,2,2,11,4,"₹72,000","₹49,999",151 - 200,1261.37
+200,Voltas,Voltas 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,0,12,2.9,"₹77,990","₹39,990",111 - 150,759.07
+201,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+202,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+203,SAMSUNG,SAMSUNG 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,0,10,4.2,,"₹69,999",111 - 150,977.8
+204,LG,LG 1.5 Ton 5 Star Split Dual Inverter AC with Wi-fi Connect  - White,5,1.5,14,102,4.2,"₹77,990","₹46,990",111 - 150,818.81
+205,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+206,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+207,Hitachi,Hitachi 1.5 Ton 3 Star Split Inverter Hot and Cold AC  - White,3,1.5,0,3,4.3,"₹63,300","₹44,999",111 - 150,1040.2
+208,Voltas,Voltas 1 Ton 5 Star Split Inverter AC  - White,5,1,11,97,3.7,"₹63,990","₹35,140",90,542.35
+209,SAMSUNG,SAMSUNG 2 Ton 4 Star Split Inverter AC  - White,4,2,0,6,3.2,"₹77,990","₹56,990",151 - 200,880
+210,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+211,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+212,Lloyd,Lloyd 2023 Model 1.5 Ton 5 Star Window AC  - White,5,1.5,4,26,4.3,"₹54,990","₹34,299",111 - 150,1072.14
+213,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+214,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+215,CARRIER,CARRIER 2023 Model HD Filteration 1.5 Ton 3 Star Split AI Flexicool Inverter With Auto Cleanser AC  - ...,3,1.5,24,121,4.2,"₹69,990","₹38,999",111 - 150,1575
+216,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1 Ton 3 Star Split Inverter Wind Free AC with Wi-fi Conn...,3,1,81,804,4.2,"₹58,990","₹56,990",90,624.48
+217,Daikin,Daikin 1.5 Ton 3 Star Window AC  - White,3,1.5,27,229,4.2,"₹35,000","₹30,999",111 - 150,1265
+218,Lloyd,Lloyd 1 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White,5,1,2,66,4.2,"₹58,990","₹57,990",90,533.89
+219,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+220,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+221,Haier,"Haier UVC Sterilization 2023 Model 1.6 Ton 5 Star Split Inverter Frost Self-clean technology, Superson...",5,1.6,0,7,4.1,"₹79,990","₹52,499",151 - 200,828.37
+222,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.2 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.2,"1,521","13,889",4.2,"₹57,500","₹54,500",91 - 110,865.48
+223,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+224,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+225,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - W...,3,1.5,201,"2,298",4,"₹66,990","₹64,990",111 - 150,977.8
+226,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,313,"3,616",4.1,"₹77,990","₹75,990",111 - 150,749.48
+227,Lloyd,Lloyd 2023 Model 1.5 Ton 2 Star Split AC  - White,2,1.5,20,160,4.1,"₹59,990","₹59,890",111 - 150,1114.71
+228,Daikin,Daikin 1 Ton 5 Star Split Inverter AC  - White,5,1,2,30,3.8,"₹55,500","₹38,500",90,523.54
+229,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+230,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+231,Hitachi,Hitachi Ice Clean Frost Wash Technology 2023 Model 1 Ton 3 Star Split Inverter Xpandable plus Ambience...,3,1,4,60,3.8,,"₹55,050",90,669.16
+232,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+233,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+234,MarQ,MarQ by Flipkart 1 Ton 3 Star Split AC  - White,3,1,"1,379","10,559",4.2,"₹36,999","₹17,999",90,741.59
+235,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter i-sense Technology with Blu...,3,1.5,403,"4,378",4.1,"₹46,900","₹30,990",111 - 150,980.37
+236,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+237,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+238,MarQ,MarQ by Flipkart 1.5 Ton 3 Star Split AC  - White,3,1.5,"1,379","10,559",4.2,"₹44,999","₹20,999",111 - 150,1093.4
+239,Blue,Blue Star 2 Ton 3 Star Split Inverter AC  - White,3,2,2,11,4,"₹72,000","₹49,999",151 - 200,1261.37
+240,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+241,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+242,Lloyd,Lloyd 2023 Model 1 Ton 3 Star Split AC  - White,3,1,5,45,4.1,"₹49,990","₹30,799",90,709.86
+243,realme,realme TechLife 4-in-1 Convertible 2023 Range with Flexi-Control Technology 1.2 Ton 4 Star Split Inver...,4,1.2,416,"2,835",4.2,,"₹52,999",91 - 110,1230
+244,Daikin,Daikin 2.02 Ton 3 Star Split Inverter AC with PM 2.5 Filter  - White,3,2.02,0,11,4.7,"₹86,800","₹59,990",,1372.85
+245,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 0.9 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,0.9,"1,521","13,889",4.2,"₹45,000","₹30,999",90,644.46
+246,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+247,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+248,LG,"LG Super Convertible 5-in-1 Cooling, 2023 Model 1.2 Ton 3 Star Split Inverter HD Filter with Anti-Viru...",3,1.2,"2,889","28,367",4.2,"₹68,990","₹33,999",91 - 110,849.1
+249,LG,LG 1.5 Ton 5 Star Window Smart AC with Wi-fi Connect  - White,5,1.5,479,"4,346",4.2,"₹48,990","₹37,999",111 - 150,1106.26
+250,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+251,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+252,Whirlpool,Whirlpool 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,22,4.2,"₹45,000","₹32,409",111 - 150,0
+253,Voltas,Voltas 2 in 1 Convertible Cooling 1.2 Ton 3 Star Split Inverter Expandable AC  - White,3,1.2,"1,713","19,291",4.2,"₹54,990","₹26,366",91 - 110,1700
+254,MarQ,MarQ by Flipkart 1 Ton 3 Star Split Inverter AC  - White,3,1,"1,946","13,805",4.3,"₹39,999","₹26,499",90,725.03
+255,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+256,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+257,CARRIER,CARRIER Convertible 4-in-1 Cooling 2023 Model 1 Ton 3 Star Split AI Flexicool Inverter Dual Filtration...,3,1,"1,033","10,378",4.1,"₹56,990","₹30,999",90,704.46
+258,SAMSUNG,SAMSUNG 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,"2,385","24,309",4.2,"₹57,990","₹37,999",111 - 150,1435
+259,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+260,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+261,Panasonic,Panasonic 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,146,"1,122",4.2,"₹53,900","₹35,489",111 - 150,743.96
+262,Panasonic,Panasonic 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,0,6,3.7,"₹49,900","₹37,590",111 - 150,1086.41
+263,Haier,"Haier UVC Sterilization 2023 Model 1.6 Ton 5 Star Split Inverter Frost Self-clean technology, Superson...",5,1.6,0,7,4.1,"₹79,990","₹52,499",151 - 200,828.37
+264,realme,realme TechLife 2023 Model 1.5 Ton 5 Star Split Inverter Smart AC with Wi-fi Connect  - White,5,1.5,28,164,4.4,,"₹65,999",111 - 150,770.08
+265,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+266,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+267,Hitachi,Hitachi 1.5 Ton 3 Star Split Inverter Hot and Cold AC  - White,3,1.5,0,3,4.3,"₹63,300","₹44,999",111 - 150,1040.2
+268,Godrej,Godrej 4-Way Air Swing 1.5 Ton 3 Star Split with Anti-Dust Filter AC  - White,3,1.5,19,163,4.2,"₹47,990","₹32,478",111 - 150,1045.04
+269,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+270,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+271,Hitachi,Hitachi 1 Ton 3 Star Split Inverter AC  - White,3,1,4,19,3.4,"₹48,200","₹29,299",90,688.96
+272,LG,"LG AI Convertible 6-in-1 Cooling 2023 Model 2 Ton 3 Star Split Inverter 4 Way Swing, HD Filter with An...",3,2,"2,889","28,367",4.2,"₹85,990","₹52,999",151 - 200,1232.78
+273,MarQ,MarQ by Flipkart 1.5 Ton 5 Star Split Dual Inverter Smart AC with Wi-fi Connect  - White,5,1.5,39,335,4.4,"₹56,999","₹31,415",111 - 150,1118
+274,LG,LG 2023 Model 1.5 Ton 3 Star Window Inverter AC with Wi-fi Connect  - White,3,1.5,479,"4,346",4.2,"₹65,990","₹34,999",111 - 150,1115.04
+275,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+276,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+277,Panasonic,Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023 Model 1.5 Ton 5 Star Split Inverter ...,5,1.5,78,638,4.1,"₹76,900","₹52,490",111 - 150,774.19
+278,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,19,3.9,"₹67,990","₹36,990",111 - 150,1017.95
+279,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+280,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+281,Hitachi,Hitachi 1.5 Ton 5 Star Window AC  - White,5,1.5,457,"4,311",4.1,,"₹34,790",111 - 150,1575
+282,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,19,151,4,"₹45,990","₹32,700",111 - 150,975.26
+283,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+284,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+285,Daikin,Daikin 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,56,387,4.2,"₹71,200","₹44,990",111 - 150,756.78
+286,Hitachi,Hitachi 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,1,4,5,,"₹72,900",111 - 150,813.13
+287,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+288,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+289,Hitachi,Hitachi Ice Clean Frost Wash Technology 2023 Model 2 Ton 3 Star Split Inverter Xpandable plus Ambience...,3,2,217,"2,406",4,"₹81,100","₹81,090",151 - 200,1397.61
+290,Godrej,Godrej 2 Ton Split Inverter AC  - White,,2,0,5,5,"₹60,999","₹40,999",151 - 200,
+291,Midea,"Midea 2023 Model 2 Ton 3 Star Split Inverter HD Filter with 2 Way Air Directional Control, Auto Cleans...",3,2,76,524,4.1,"₹71,290","₹41,990",151 - 200,1249.82
+292,SAMSUNG,"SAMSUNG 5 in 1 convertible cooling 1.5 Ton 3 Star Split Inverter AC  - White, Purple",3,1.5,81,804,4.2,"₹57,990","₹36,990",111 - 150,1044.19
+293,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+294,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+295,ONIDA,ONIDA 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,20,189,4.3,"₹62,490","₹62,300",111 - 150,860.67
+296,CARRIER,CARRIER 1.5 Ton 5 Star Window AC  - White,5,1.5,78,625,4.3,"₹53,990","₹52,990",111 - 150,1178.19
+297,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+298,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+299,SAMSUNG,SAMSUNG 1.5 Ton 3 Star Split AC  - White,3,1.5,10,157,4.3,"₹52,990","₹47,777",111 - 150,1620
+300,Hitachi,Hitachi Iconic wave design 2023 Model 1 Ton 3 Star Split Soft dry Silent Air Ambience Light R 32 AC  -...,3,1,23,242,4.1,"₹46,600","₹33,499",90,706.76
+301,ONIDA,ONIDA 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,539,"3,200",4.5,"₹54,990","₹29,990",111 - 150,1027.12
+302,MOTOROLA,MOTOROLA 2 Ton 3 Star Split Dual Inverter Smart AC with Wi-fi Connect  - Silver,3,2,100,627,4.4,"₹60,899","₹31,999",151 - 200,1356.23
+303,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+304,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+305,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+306,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+307,Blue,Blue Star 2023 Model 1 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1,1,7,4.9,"₹52,500","₹33,290",90,704.42
+308,Voltas,Voltas 1.5 Ton 4 Star Split Inverter AC  - White,4,1.5,"1,713","19,291",4.2,"₹69,990","₹37,730",111 - 150,945.28
+309,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+310,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+311,IFB,"IFB FastCool Convertible 8-in-1 Cooling, 2023 Model 1.5 Ton 3 Star Split Inverter 7 Stage Air Treatmen...",3,1.5,116,944,4.2,"₹51,990","₹38,490",111 - 150,1005.73
+312,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1.5,151,840,4.2,"₹61,990","₹41,809",111 - 150,1002.76
+313,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+314,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+315,SAMSUNG,SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Wind Free AC with Wi-fi Co...,5,1.5,81,804,4.2,"₹75,990","₹74,899",111 - 150,749.48
+316,Daikin,Daikin 1.5 Ton 3 Star Hot and Cold Split Inverter AC  - White,3,1.5,3,65,3.9,"₹59,800","₹42,490",111 - 150,881.05
+317,LG,"LG Super Convertible 6-in-1 Cooling 1 Ton 5 Star Split Inverter AI, 4 Way Swing, HD Filter with Anti-V...",5,1,"2,889","28,367",4.2,"₹62,990","₹43,322",90,571.99
+318,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+319,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+320,Hitachi,Hitachi 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,1,4,5,,"₹72,900",111 - 150,813.13
+321,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+322,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+323,SAMSUNG,SAMSUNG Convertible 2 Ton 3 Star Split Inverter AC  - White,3,2,63,747,4.2,"₹77,990","₹45,999",151 - 200,1145.22
+324,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+325,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+326,Hitachi,Hitachi 1.5 Ton 5 Star Window AC  - White,5,1.5,457,"4,311",4.1,,"₹34,790",111 - 150,1575
+327,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+328,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+329,Hitachi,Hitachi 1.5 Ton 5 Star Split Inverter Expandable AC  - Gold,5,1.5,307,"3,144",4,,"₹60,500",111 - 150,530.44
+330,Hitachi,Hitachi 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,23,3.8,"₹52,700","₹35,680",111 - 150,1115
+331,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+332,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+333,Voltas,Voltas 2 Ton Split Inverter AC  - White,,2,0,4,4.3,"₹79,990","₹46,450",151 - 200,
+334,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+335,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+336,LG,"LG Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 4 Star Split Inverter 4 Way Swing, HD Filter with Ant...",4,1.5,"2,889","28,367",4.2,"₹81,990","₹78,990",111 - 150,837.55
+337,SAMSUNG,SAMSUNG 1.5 Ton 5 Star Split AC with Wi-fi Connect  - White,5,1.5,1,3,3.7,"₹72,990","₹43,570",111 - 150,1365
+338,Haier,Haier 1.6 Ton 5 Star Split Inverter AC  - White,5,1.6,1,6,3.2,"₹72,490","₹53,999",151 - 200,880.3
+339,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+340,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+341,Lloyd,Lloyd 1.5 Ton 3 Star Split AC  - White,3,1.5,111,762,4.2,"₹52,990","₹35,789",111 - 150,1490
+342,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+343,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+344,Voltas,Voltas 1 Ton 3 Star Split Inverter AC  - White,3,1,1,16,3.9,"₹55,990","₹31,290",90,700.57
+345,Hitachi,Hitachi 2023 Model 1.5 Ton 3 Star Window AC  - White,3,1.5,457,"4,311",4.1,"₹35,600","₹30,249",111 - 150,1161.16
+346,Blue,Blue Star 2023 Model 1.5 Ton 5 Star Window AC  - White,5,1.5,131,"1,312",4.1,"₹44,500","₹34,949",111 - 150,1045.04
+347,Sansui,Sansui Activated Carbon Filter 1.5 Ton 5 Star Split Dual Inverter Smart AC with Wi-fi Connect  - White,5,1.5,25,183,4.1,"₹59,999","₹31,500",111 - 150,865.7
+348,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+349,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+350,Hisense,Hisense 1 Ton 5 Star Split Inverter Smart AC with Wi-fi Connect  - White,5,1,275,"1,670",4.2,"₹37,990","₹35,544",90,925
+351,Haier,"Haier Heavy Duty Turbo Cool Plus 2023 Model 1.6 Ton 3 Star Split Powerful cooling, Anti-bacterial filt...",3,1.6,292,"2,371",4,"₹65,990","₹35,990",151 - 200,1350
+352,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+353,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+354,Godrej,"Godrej 1 Ton 3 Star Split Inverter With Anti-Virus Protection AC  - White, Gold",3,1,179,"1,726",4.1,"₹36,900","₹32,631",90,752.58
+355,SAMSUNG,SAMSUNG 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,3,36,4.2,"₹47,670","₹37,344",111 - 150,0
+356,Hitachi,Hitachi Ice Clean Frost Wash Technology 2023 Model 1.8 Ton 4 Star Split Inverter Xpandable plus Ambien...,4,1.8,217,"2,406",4,"₹95,700","₹54,999",151 - 200,1096.51
+357,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+358,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+359,TOSHIBA,TOSHIBA 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,1,1,1,"₹71,280","₹56,990",111 - 150,704.35
+360,Blue,Blue Star 2023 Model 1.5 Ton 3 Star Window AC  - White,3,1.5,131,"1,312",4.1,"₹39,500","₹29,950",111 - 150,1168.9
+361,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+362,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+363,Haier,"Haier Frost Self-Clean 2023 Model 1.5 Ton 3 Star Split Inverter Intelli Convertible 7-in-1, Cooling at...",3,1.5,1,5,4,"₹66,490","₹36,490",111 - 150,1020.54
+364,TOSHIBA,TOSHIBA 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,1,2,1.5,"₹62,000","₹50,000",111 - 150,851.2
+365,Godrej,Godrej 1.5 Ton 5 Star Split Inverter Convertible 5-in-1 Cooling With Anti-Virus Protection AC  - White...,5,1.5,61,618,4.2,"₹51,900","₹43,878",111 - 150,840.2
+366,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+367,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+368,Blue,Blue Star 2 Ton 3 Star Window AC  - White,3,2,131,"1,312",4.1,"₹47,500","₹37,999",151 - 200,1559.82
+369,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+370,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+371,Haier,Haier 1.2 Ton 3 Star Split Inverter AC  - White,3,1.2,292,"2,371",4,"₹60,990","₹32,999",91 - 110,823.55
+372,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+373,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+374,Blue,Blue Star 2023 Model 2 Ton 3 Star Window AC  - White,3,2,131,"1,312",4.1,"₹48,000","₹39,549",151 - 200,1453.77
+375,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+376,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+377,Daikin,Daikin 2.02 Ton 3 Star Split Inverter AC with PM 2.5 Filter  - White,3,2.02,0,11,4.7,"₹86,800","₹59,990",,1372.85
+378,Voltas,Voltas 2 Ton 5 Star Split Inverter AC  - White,5,2,0,25,4.1,"₹82,900","₹55,599",151 - 200,892.32
+379,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+380,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+381,Panasonic,Panasonic 1.5 Ton 5 Star Window AC  - White,5,1.5,4,20,4.3,,"₹37,500",111 - 150,1168.9
+382,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+383,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+384,LG,"LG Super Convertible 6-in-1 Cooling 1.5 Ton 5 Star Split Inverter AI, 4 Way Swing, HD Filter with Anti...",5,1.5,"2,889","28,367",4.2,,"₹80,990",111 - 150,818.81
+385,Voltas,Voltas 2 in 1 Convertible Cooling 1.2 Ton 3 Star Split Inverter Expandable AC  - White,3,1.2,"1,713","19,291",4.2,"₹54,990","₹26,366",91 - 110,1700
+386,Hitachi,Hitachi Iconic wave design 2023 Model 1 Ton 3 Star Split Soft dry Silent Air Ambience Light R 32 AC  -...,3,1,23,242,4.1,"₹46,600","₹33,479",90,706.76
+387,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+388,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+389,Blue,Blue Star 2023 Model 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,6,44,4,"₹50,000","₹37,599",111 - 150,1079.34
+390,Lloyd,Lloyd 2023 Model 2 Ton 3 Star Split Inverter AC  - White,3,2,878,"5,312",4.2,"₹77,990","₹76,990",151 - 200,1261.37
+391,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+392,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+393,SAMSUNG,SAMSUNG 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,"2,385","24,309",4.2,,"₹57,990",111 - 150,1435
+394,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+395,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+396,Panasonic,Panasonic 2023 Model 1.5 Ton 3 Star Split AC with Wi-fi Connect  - White,3,1.5,0,3,4.7,"₹55,400","₹36,899",111 - 150,989.31
+397,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+398,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+399,Haier,"Haier Frost Self-Clean 2023 Model 1 Ton 4 Star Split Inverter Intelli smart, Intelli Convertible 7-in-...",4,1,1,6,4.2,"₹63,990","₹36,999",90,609.48
+400,CANDY,CANDY 2023 Model 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,0,5,4.8,"₹48,000","₹34,999",111 - 150,1095.38
+401,Blue,"Blue Star 2023 Model 1 Ton 2 Star Split Multi Sensors, Comfort Sleep Mode, Turbo Cool, Self Diagnosis,...",2,1,10,133,4.2,"₹44,250","₹31,999",90,727.66
+402,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+403,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+404,MarQ,MarQ by Flipkart 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,526,"4,691",4.2,"₹39,200","₹33,578",111 - 150,1430
+405,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+406,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+407,CANDY,CANDY 2023 Model 1 Ton 4 Star Split Inverter AC  - White,4,1,118,713,4,"₹57,500","₹28,999",90,600.21
+408,Blue,Blue Star 1.5 Ton 3 Star Split AC  - White,3,1.5,168,"1,483",4.4,"₹49,500","₹40,999",111 - 150,1122.45
+409,Blue,Blue Star 2023 Model 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,7,69,3.9,"₹50,000","₹39,999",111 - 150,1082.57
+410,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,19,109,4.1,"₹50,990","₹32,599",111 - 150,1097.54
+411,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+412,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+413,Panasonic,Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023 Model Desert Series 2.2 Ton 4 Star S...,4,2.2,78,638,4.1,"₹87,900","₹71,719",,1351.04
+414,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+415,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+416,Godrej,Godrej 2023 Model 5-In-1 Convertible Cooling 1.4 Ton 3 Star Split Inverter with I-Sense Technology AC ...,3,1.4,9,75,3.8,"₹45,400","₹32,999",111 - 150,952.09
+417,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,95,677,4.3,"₹50,990","₹35,690",111 - 150,5800
+418,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,19,109,4.1,"₹50,990","₹32,599",111 - 150,1097.54
+419,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+420,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+421,MOTOROLA,MOTOROLA 1.5 Ton 3 Star Split Dual Inverter AC  - Silver,3,1.5,100,627,4.4,"₹46,399","₹37,999",111 - 150,1101.4
+422,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+423,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+424,Voltas,Voltas 1.5 Ton 3 Star Window AC  - White,3,1.5,366,"3,610",4.3,,"₹32,822",111 - 150,0
+425,Blue,"Blue Star 2023 Model 1 Ton 2 Star Split Multi Sensors, Comfort Sleep Mode, Turbo Cool, Self Diagnosis,...",2,1,10,133,4.2,"₹44,250","₹31,999",90,727.66
+426,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+427,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+428,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,19,3.9,"₹67,990","₹32,590",111 - 150,1017.95
+429,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+430,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+431,Lloyd,Lloyd 1 Ton 3 Star Split Inverter AC  - White,3,1,7,98,4.2,"₹50,990","₹32,900",90,698.49
+432,Godrej,Godrej 4-Way Air Swing 2023 Model 2 Ton 3 Star Split with Anti-Dust Filter AC  - White,3,2,24,194,4,"₹61,990","₹43,499",151 - 200,1215.35
+433,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+434,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+435,Daikin,Daikin 2.02 Ton 4 Star Split Inverter AC with PM 2.5 Filter  - White,4,2.02,0,18,3.4,"₹86,800","₹62,990",,1372.85
+436,Blue,Blue Star 1.5 Ton 3 Star Split AC  - White,3,1.5,0,7,4.7,"₹61,750","₹39,999",111 - 150,1052.79
+437,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+438,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+439,Haier,"Haier Frost Self-Clean 2023 Model 1.5 Ton 3 Star Split Inverter Intelli Convertible 7-in-1, Cooling at...",3,1.5,1,5,4,"₹66,490","₹36,490",111 - 150,1020.54
+440,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,0,5,4.2,"₹63,990","₹40,999",111 - 150,1021.82
+441,Voltas,Voltas 2023 Model 2 Ton 3 Star Split AC  - White,3,2,1,16,4.4,"₹81,990","₹48,500",151 - 200,1323.72
+442,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+443,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+444,Whirlpool,Whirlpool 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,22,4.2,"₹45,000","₹32,409",111 - 150,0
+445,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,0,24,4.4,"₹44,900","₹33,386",111 - 150,998.42
+446,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+447,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+448,Godrej,Godrej 1.5 Ton 3 Star Split Inverter Convertible 5-in-1 Cooling with Anti-Virus Protection AC  - White...,3,1.5,403,"4,378",4.1,"₹43,900","₹32,699",111 - 150,1046.29
+449,Blue,Blue Star 2023 Model 1.5 Ton 5 Star Window AC  - White,5,1.5,7,87,4.2,"₹42,500","₹34,449",111 - 150,1114.71
+450,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+451,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+452,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+453,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+454,Voltas,Voltas 1.2 Ton 5 Star Split Inverter AC  - White,5,1.2,732,"5,602",4.2,"₹54,990","₹33,499",91 - 110,686.81
+455,Panasonic,Panasonic 1 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White,5,1,9,72,4.1,"₹61,400","₹40,900",90,589.13
+456,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+457,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+458,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+459,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+460,Blue,Blue Star 1 Ton 5 Star Split Inverter AC  - White,5,1,0,10,4.7,"₹59,990","₹39,990",90,
+461,LG,LG 1.5 Ton 3 Star Split Dual Inverter AC with Wi-fi Connect  - White,3,1.5,6,34,4.5,"₹70,990","₹41,490",111 - 150,1180.51
+462,Daikin,Daikin 1.8 Ton 3 Star Split Inverter AC  - White,3,1.8,4,29,3.9,"₹63,700","₹55,590",151 - 200,0
+463,Blue,Blue Star 2023 Model 1.5 Ton 2 Star Window AC  - White,2,1.5,131,"1,312",4.1,"₹37,500","₹29,399",111 - 150,1223.09
+464,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+465,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+466,Lloyd,Lloyd 1 Ton 3 Star Split Inverter AC  - White,3,1,7,98,4.2,"₹50,990","₹32,900",90,698.49
+467,LG,"LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter 4 Way Swing, HD Filter with ...",5,1.5,"2,889","28,367",4.2,"₹81,990","₹49,990",111 - 150,685.26
+468,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+469,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+470,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,0,5,4.2,"₹63,990","₹40,999",111 - 150,1021.82
+471,Daikin,Daikin 1 Ton 3 Star Split Inverter with PM 2.5 Filter AC with PM 2.5 Filter  - White,3,1,0,14,3.8,"₹49,990","₹35,490",90,682.27
+472,Godrej,"Godrej 1.5 Ton 5 Star Split Inverter 2023 Model, Blue Fin Anti Corrosive Coating AC  - White",5,1.5,61,618,4.2,"₹54,900","₹39,999",111 - 150,765.86
+473,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+474,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+475,MarQ,MarQ by Flipkart Convertible 4-in-1 Cooling 0.8 Ton 3 Star Split Inverter AC  - White,3,0.8,91,688,4,"₹45,499","₹28,888",90,820
+476,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+477,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+478,Voltas,Voltas 2 Ton 3 Star Split Inverter AC  - White,3,2,5,39,4,"₹74,264","₹45,900",151 - 200,
+479,Hitachi,Hitachi 1.5 Ton 2 Star Split AC  - White,2,1.5,0,5,3.2,"₹54,100","₹35,499",111 - 150,1045.04
+480,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+481,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+482,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,0,24,4.4,"₹44,900","₹33,386",111 - 150,998.42
+483,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+484,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+485,Voltas,Voltas 2 Ton 5 Star Split Inverter AC  - White,5,2,1,50,4.3,"₹85,990","₹55,800",151 - 200,
+486,Daikin,Daikin 2023 Model 1.8 Ton 5 Star Split Inverter AC with PM 2.5 Filter  - White,5,1.8,354,"3,683",4.2,"₹84,000","₹83,999",151 - 200,923.07
+487,Daikin,Daikin 1.5 Ton 5 Star Split Inverter AC with PM 2.5 Filter with Wi-fi Connect  - White,5,1.5,11,61,4,"₹71,990","₹49,990",111 - 150,785.67
+488,Lloyd,Lloyd 1 Ton 3 Star Portable AC  - White,3,1,4,27,3.3,"₹46,900","₹35,605",90,
+489,Blue,Blue Star 1 Ton 3 Star Split Inverter AC  - White,3,1,0,11,4.2,"₹51,500","₹30,999",90,704.42
+490,Godrej,Godrej 1.5 Ton 3 Star Split AC  - White,3,1.5,19,163,4.2,"₹46,900","₹32,499",111 - 150,1137.94
+491,Voltas,Voltas 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,486,"4,572",4.3,"₹68,990","₹41,490",111 - 150,892.32
+492,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,403,"4,378",4.1,"₹58,000","₹32,390",111 - 150,1091.47
+493,Panasonic,Panasonic 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White,5,1.5,78,638,4.1,"₹63,400","₹43,999",111 - 150,774.19
+494,Lloyd,Lloyd 1.5 Ton 4 Star Window AC  - White,4,1.5,46,271,4.2,"₹38,990","₹29,590",111 - 150,1072.14
+495,Daikin,Daikin 1.5 Ton 3 Star Split AC with PM 2.5 Filter  - White,3,1.5,2,120,4.1,"₹55,600","₹38,349",111 - 150,1099.44
+496,O,O General 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,0,7,3.7,"₹70,530","₹61,594",111 - 150,1453.77
+497,Daikin,Daikin 1.5 Ton 3 Star Split AC  - White,3,1.5,1,14,4.2,"₹55,600","₹38,990",111 - 150,989.31
+498,Voltas,Voltas 1 Ton 3 Star Split Inverter AC  - White,3,1,9,88,4.1,"₹48,990","₹30,999",90,0
+499,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+500,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+501,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+502,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+503,Blue,Blue Star 2023 Model 1.5 Ton 2 Star Window AC  - White,2,1.5,131,"1,312",4.1,"₹37,500","₹29,399",111 - 150,1223.09
+504,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+505,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+506,Blue,Blue Star 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,2,9,3.7,"₹61,750","₹37,800",111 - 150,1456
+507,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,3,24,3.7,"₹45,990","₹33,986",111 - 150,1123.23
+508,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+509,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+510,Blue,Blue Star 2023 Model 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,7,69,3.9,"₹50,000","₹37,700",111 - 150,1082.57
+511,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,403,"4,378",4.1,"₹58,000","₹32,390",111 - 150,1091.47
+512,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,0,6,3.8,"₹48,990","₹32,409",111 - 150,1180.51
+513,Hitachi,Hitachi 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,3,12,3.7,"₹57,900","₹38,250",111 - 150,1098.1
+514,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+515,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+516,Daikin,Daikin 1.5 Ton 3 Star Split Inverter with PM 2.5 Filter AC with PM 2.5 Filter  - White,3,1.5,46,544,4.3,"₹51,000","₹38,899",111 - 150,1752
+517,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+518,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+519,O,O General 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,0,7,3.7,"₹70,530","₹61,594",111 - 150,1453.77
+520,Blue,Blue Star 1.5 Ton 3 Star Window AC  - White,3,1.5,131,"1,312",4.1,"₹37,500","₹28,999",111 - 150,1207.61
+521,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+522,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+523,Lloyd,Lloyd 1.5 Ton 4 Star Window AC  - White,4,1.5,46,271,4.2,"₹38,990","₹29,590",111 - 150,1072.14
+524,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+525,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+526,Blue,Blue Star 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,4,4,"₹58,000","₹42,500",111 - 150,
+527,Godrej,Godrej 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,4,38,4.4,"₹61,900","₹32,999",111 - 150,1128.49
+528,Panasonic,Panasonic 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,50,426,4.1,"₹54,400","₹36,499",111 - 150,1002.72
+529,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+530,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+531,Lloyd,Lloyd 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,0,14,4.1,"₹47,990","₹32,590",111 - 150,1149.83
+532,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+533,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+534,Panasonic,Panasonic 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,23,154,4.4,"₹57,500","₹44,934",111 - 150,846.85
+535,Lloyd,Lloyd 1.5 Ton 5 Star Window AC  - White,5,1.5,234,"1,683",4.1,"₹45,000","₹32,590",111 - 150,1114.71
+536,LG,LG 1.5 Ton 5 Star Split Dual Inverter AC  - White,5,1.5,0,33,4.1,"₹70,500","₹50,400",111 - 150,818.81
+537,Blue,Blue Star 2023 Model 1 Ton 2 Star Window AC  - White,2,1,131,"1,312",4.1,"₹31,000","₹26,499",90,840.68
+538,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+539,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+540,ONIDA,ONIDA 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,20,189,4.3,"₹57,490","₹36,500",111 - 150,1002.84
+541,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+542,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+543,Godrej,Godrej 1 Ton 3 Star Split Inverter AC  - White,3,1,4,58,4.2,"₹42,900","₹29,490",90,752.71
+544,SAMSUNG,SAMSUNG Super Convertible 6-in-1 Cooling 1.5 Ton 5 Star Split Inverter WINDFREE Technology AC  - White,5,1.5,178,"1,874",4.1,,"₹72,999",111 - 150,806.28
+545,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+546,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+547,Midea,Midea 2023 Model 0.8 Ton 3 Star Split Inverter Cold Catalyst Filter With Auto Cleanser AC  - White,3,0.8,76,524,4.1,,"₹54,999",90,526.03
+548,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+549,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+550,CARRIER,CARRIER 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,2,6,4.3,"₹50,899","₹43,899",111 - 150,1380
+551,LG,"LG Super Convertible 5-in-1 Cooling, 2023 Model 1.2 Ton 3 Star Split Inverter HD Filter with Anti-Viru...",3,1.2,"2,889","28,367",4.2,"₹68,990","₹68,980",91 - 110,849.1
+552,Blue,Blue Star 2023 Model 1 Ton 3 Star Window AC  - White,3,1,131,"1,312",4.1,"₹33,000","₹27,229",90,823.65
+553,Voltas,Voltas 2023 Model 2 Ton 2 Star Window AC  - White,2,2,1,24,3.7,"₹47,990","₹35,800",151 - 200,1542.79
+554,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+555,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+556,Blue,Blue Star 2023 Model 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1.5,4,38,4.2,"₹64,250","₹36,990",111 - 150,1026.46
+557,Daikin,Daikin 1.8 Ton 2 Star Split AC  - White,2,1.8,4,46,4,"₹52,100","₹46,850",151 - 200,0
+558,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+559,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+560,Haier,"Haier Frost Self-Clean 2023 Model 1.5 Ton 4 Star Split Inverter Intelli Smart,� Intelli Convertible 7-...",4,1.5,292,"2,371",4,"₹69,990","₹39,899",111 - 150,886.36
+561,Daikin,Daikin 1 Ton 3 Star Split AC with PM 2.5 Filter  - White,3,1,20,159,4.2,"₹39,900","₹35,900",90,
+562,O,O General 1.5 Ton 3 Star Split AC  - White,3,1.5,0,5,1.8,"₹58,940","₹53,500",111 - 150,1580
+563,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+564,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+565,Daikin,Daikin 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,6,51,4.4,"₹73,800","₹50,490",111 - 150,0
+566,Godrej,Godrej 1 Ton 3 Star Split Inverter AC  - White,3,1,4,58,4.2,"₹42,900","₹29,490",90,752.71
+567,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+568,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+569,CARRIER,CARRIER 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,2,6,4.3,"₹50,899","₹43,899",111 - 150,1380
+570,Voltas,Voltas 1 Ton 5 Star Split Inverter AC  - White,5,1,0,20,3.7,"₹55,990","₹36,200",90,0
+571,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+572,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+573,ONIDA,ONIDA 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,20,189,4.3,"₹57,490","₹36,500",111 - 150,1002.84
+574,Voltas,Voltas 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,427,"4,828",4.2,"₹68,990","₹42,900",111 - 150,892.32
+575,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+576,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+577,LG,LG 1.5 Ton 5 Star Split Dual Inverter AC  - White,5,1.5,0,33,4.1,"₹70,500","₹50,400",111 - 150,818.81
+578,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+579,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+580,IFB,IFB 1.5 Ton 3 Star Split Dual Inverter AC  - White,3,1.5,149,"1,188",4.2,"₹46,500","₹40,500",111 - 150,1110
+581,Blue,Blue Star 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,10,121,4.2,"₹50,000","₹43,900",111 - 150,841.67
+582,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+583,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+584,Voltas,Voltas 1 Ton 3 Star Split Inverter AC  - White,3,1,427,"4,828",4.2,"₹54,990","₹34,500",90,740.59
+585,Daikin,Daikin 1.5 Ton 3 Star Split AC with PM 2.5 Filter  - White,3,1.5,48,532,4.3,"₹43,288","₹42,500",111 - 150,
+586,Daikin,Daikin 2023 Model 1 Ton 5 Star Split Inverter AC with PM 2.5 Filter  - White,5,1,354,"3,683",4.2,"₹55,500","₹39,990",90,523.54
+587,Hitachi,Hitachi 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,21,266,4.1,"₹50,490","₹41,300",111 - 150,1039.88
+588,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+589,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+590,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+591,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+592,Blue,Blue Star 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,2,22,3.8,"₹69,000","₹47,500",111 - 150,1400
+593,Panasonic,Panasonic 1 Ton 5 Star Window AC  - White,5,1,5,34,4.3,"₹33,000","₹19,999",90,1056.45
+594,O,O General 0.75 Ton 4 Star Window AC  - White,4,0.75,1,8,3.9,"₹35,000","₹30,000",90,688.95
+595,CARRIER,"CARRIER 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - Beige, Black",5,1.5,82,588,4,"₹79,890","₹47,300",111 - 150,871.59
+596,CARRIER,CARRIER 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,49,385,4.4,,"₹79,999",111 - 150,754.05
+597,ONIDA,ONIDA 1 Ton 5 Star Split Inverter AC  - White,5,1,20,189,4.3,"₹53,990","₹52,999",90,578.86
+598,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,2,60,4.1,"₹60,990","₹40,506",111 - 150,1002.76
+599,SAMSUNG,"SAMSUNG 1 Ton 3 Star Split Inverter AC  - White, Blue1",3,1,"2,385","24,309",4.2,,"₹47,990",90,1049.79
+600,ONIDA,ONIDA 1 Ton 3 Star Split Inverter AC  - White,3,1,20,189,4.3,"₹48,490","₹47,999",90,713.54
+601,SAMSUNG,SAMSUNG 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,"2,385","24,309",4.2,,"₹55,999",111 - 150,863.15
+602,LG,LG Convertible 5-in-1 Cooling 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,425,"4,239",4.3,"₹66,990","₹63,990",111 - 150,520
+603,Haier,"Haier Frost Self-Clean 2023 Model 1.5 Ton 4 Star Split Inverter Intelli Smart,� Intelli Convertible 7-...",4,1.5,292,"2,371",4,"₹74,999","₹71,999",111 - 150,886.36
+604,Blue,Blue Star Convertible 4 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter WiFi Inverter AC Multi S...,3,1.5,0,4,4,"₹64,000","₹39,990",111 - 150,998.07
+605,IFB,IFB 1 Ton 3 Star Split Inverter AC  - White,3,1,149,"1,188",4.2,,"₹40,500",90,1050.84
+606,CARRIER,CARRIER 1.2 Ton 5 Star Split Inverter AC  - White,5,1.2,"1,033","10,378",4.1,,"₹69,999",91 - 110,612.82
+607,LG,"LG 2023 Model Convertible 4-in-1 Cooling 1 Ton 5 Star Window Inverter HD Filter, Clean Filter Indicato...",5,1,479,"4,346",4.2,,"₹61,999",90,672.46
+608,Voltas,Voltas 1 Ton 3 Star Split AC  - White,3,1,6,79,3.9,,"₹49,490",90,5000
+609,Voltas,Voltas 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,"1,713","19,291",4.2,,"₹70,999",111 - 150,893.02
+610,IFB,IFB 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,8,4.6,,"₹44,500",111 - 150,0
+611,Daikin,Daikin 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,11,3.3,"₹57,990","₹52,191",111 - 150,967.4
+612,Godrej,Godrej 2023 Model 5-In-1 Convertible Cooling 1.4 Ton 3 Star Split Inverter with I-Sense Technology AC ...,3,1.4,9,75,3.8,,"₹45,400",111 - 150,952.09
+613,Voltas,Voltas 1.5 Ton 4 Star Split Inverter AC  - White,4,1.5,427,"4,828",4.2,"₹65,990","₹36,490",111 - 150,987.43
+614,LG,LG 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,425,"4,239",4.3,,"₹64,990",111 - 150,2250
+615,Whirlpool,Whirlpool 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,1,10,3.9,"₹68,999","₹68,799",111 - 150,2550
+616,Voltas,Voltas 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,0,5,3.8,,"₹73,990",111 - 150,892.9
+617,IFB,IFB 7 Stage Air Treatment 1.5 Ton 5 Star Split Inverter PM 0.3 Filter Gold Series AC  - White,5,1.5,48,361,4.3,,"₹55,490",111 - 150,853.68
+618,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+619,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+620,IFB,IFB 7 Stage Air Treatment 1 Ton 3 Star Split Inverter PM 0.3 Filter Silver Series AC  - White,3,1,304,"2,053",4.3,,"₹40,490",90,732.29
+621,Lloyd,Lloyd 2023 Model 0.8 Ton 3 Star Split Inverter AC  - White,3,0.8,845,"5,000",4.2,"₹47,990","₹47,000",90,549.06
+622,Blue,Blue Star Convertible 4-in-1 Cooling 1 Ton 5 Star Split Inverter AC  - White,5,1,"1,521","13,889",4.2,,"₹62,000",90,583.06
+623,Hitachi,Hitachi 1 Ton 3 Star Split AC  - White,3,1,0,4,3,,"₹43,599",90,756.3
+624,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+625,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+626,Whirlpool,Whirlpool 4 in 1 Convertible Cooling 1 Ton 3 Star Split Inverter AC  - White,3,1,663,"5,994",4.1,"₹58,999","₹55,999",90,690.49
+627,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+628,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+629,Hitachi,Hitachi 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,0,4,2.8,,"₹66,500",111 - 150,897.84
+630,Daikin,Daikin 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,6,122,4,,"₹61,990",111 - 150,0
+631,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+632,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+633,Voltas,Voltas 1.5 Ton 5 Star Split Inverter adjustible AC  - White,5,1.5,16,150,4.2,,"₹73,990",111 - 150,892.9
+634,LG,"LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter 4 Way Swing, HD Filter with ...",5,1.5,"2,889","28,367",4.2,,"₹86,990",111 - 150,685.26
+635,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+636,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+637,Daikin,Daikin 1.5 Ton 4 Star Split Inverter AC with PM 2.5 Filter  - White,4,1.5,65,642,4.2,,"₹61,300",111 - 150,966.47
+638,Hitachi,"Hitachi 1.5 Ton 5 Star Split Inverter AC  - White, Gold",5,1.5,4,13,4.4,,"₹60,090",111 - 150,869.21
+639,Godrej,Godrej 1.5 Ton 3 Star Window AC  - White,3,1.5,30,211,4.2,,"₹29,900",111 - 150,1265.66
+640,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+641,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+642,Daikin,Daikin 1.8 Ton 3 Star Hot and Cold Split Inverter AC  - White,3,1.8,3,65,3.9,"₹76,600","₹54,599",151 - 200,1057.21
+643,Lloyd,Lloyd 2 Ton 3 Star Split Inverter AC  - White,3,2,82,775,4,"₹73,990","₹48,980",151 - 200,1263.64
+644,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+645,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+646,Lloyd,Lloyd 2 Ton 3 Star Split Inverter AC  - White,3,2,0,5,3.8,"₹73,990","₹48,980",151 - 200,1283.64
+647,Daikin,Daikin 1 Ton 3 Star Split Inverter with PM 2.5 Filter AC with PM 2.5 Filter  - White,3,1,189,"2,009",4.2,"₹42,000","₹35,999",90,1110
+648,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+649,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+650,Whirlpool,Whirlpool 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,2,23,3.9,"₹65,000","₹32,479",111 - 150,0
+651,Panasonic,Panasonic 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1.5,0,4,4,"₹57,900","₹36,999",111 - 150,1023.96
+652,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+653,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+654,Blue,Blue Star 2023 Model 1 Ton 4 Star Split Inverter AC  - White,4,1,"1,521","13,889",4.2,"₹59,000","₹33,999",90,565.65
+655,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1.5,2,28,2.9,"₹65,990","₹39,400",111 - 150,1077.45
+656,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+657,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+658,SAMSUNG,SAMSUNG 2023 Model 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1.5,0,4,3.3,"₹64,990","₹37,900",111 - 150,977.8
+659,SAMSUNG,SAMSUNG 2023 Model 1 Ton 3 Star Split Inverter AC  - White,3,1,1,4,3.8,"₹54,990","₹38,990",90,624.48
+660,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+661,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+662,Lloyd,Lloyd 1 Ton 5 Star Split Inverter AC with Wi-fi Connect  - Print White,5,1,0,18,2.8,"₹59,438","₹40,200",90,577.43
+663,Panasonic,Panasonic 1 Ton 5 Star Window AC  - White,5,1,5,34,4.3,"₹33,000","₹19,999",90,1056.45
+664,Daikin,Daikin 0.8 Ton 3 Star Split with PM 2.5 Filter AC with PM 2.5 Filter  - White,3,0.8,204,"2,045",4.3,"₹32,000","₹26,499",90,767
+665,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+666,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+667,Lloyd,Lloyd 2 Ton 3 Star Split AC  - White,3,2,3,8,3.9,"₹68,990","₹48,650",151 - 200,808.94
+668,CARRIER,CARRIER 2 Ton 3 Star Window AC  - White,3,2,0,21,3.7,"₹40,160","₹39,800",151 - 200,0
+669,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+670,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+671,Hitachi,Hitachi 1.5 Ton 5 Star Window Inverter AC  - White,5,1.5,10,67,3.6,"₹43,870","₹42,871",111 - 150,1179.56
+672,Godrej,Godrej 1 Ton 3 Star Split Inverter AC  - White,3,1,2,16,3.7,"₹42,900","₹29,900",90,780.56
+673,Panasonic,Panasonic 1 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1,1,4,5,"₹51,990","₹34,599",90,686.48
+674,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+675,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+676,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1.5,0,3,2.7,"₹50,990","₹36,990",111 - 150,1835
+677,Daikin,Daikin 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,43,462,4.3,"₹48,000","₹39,599",111 - 150,1045
+678,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+679,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+680,SAMSUNG,SAMSUNG 2023 Model 1 Ton 3 Star Split Inverter AC  - White,3,1,1,4,3.8,"₹54,990","₹38,990",90,624.48
+681,Panasonic,Panasonic 1 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1,1,4,5,"₹51,990","₹34,599",90,686.48
+682,Godrej,"Godrej 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White, Gold",5,1.5,3,36,4,"₹55,900","₹40,500",111 - 150,840.2
+683,CARRIER,CARRIER 2 Ton 3 Star Window AC  - White,3,2,0,21,3.7,"₹40,160","₹39,800",151 - 200,0
+684,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+685,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+686,Whirlpool,Whirlpool Convertible 5-in-1 Cooling 2023 Model 2 Ton 3 Star Split Inverter 6th Sense Technology AC  -...,3,2,17,243,3.9,"₹78,200","₹41,590",151 - 200,1209.98
+687,CARRIER,CARRIER 1 Ton 5 Star Split Inverter AC  - White,5,1,1,3,4.7,"₹68,190","₹42,500",90,594.17
+688,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+689,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+690,Lloyd,Lloyd 1.5 Ton 3 Star Window AC  - White,3,1.5,20,185,4.3,"₹37,990","₹27,290",111 - 150,1217.61
+691,Blue,Blue Star 2023 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White,5,1.5,1,16,3.7,"₹74,000","₹44,989",111 - 150,770.98
+692,Hitachi,Hitachi 2023 Model 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,1,15,3.4,"₹74,100","₹45,100",111 - 150,813.13
+693,Daikin,Daikin 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,43,462,4.3,"₹48,000","₹39,599",111 - 150,1045
+694,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+695,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+696,Daikin,Daikin 1.5 Ton 3 Star Split AC  - White,3,1.5,4,52,3.9,"₹42,990","₹37,218",111 - 150,0
+697,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,117,"1,421",4.1,"₹59,900","₹34,300",111 - 150,1052.15
+698,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+699,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+700,Lloyd,Lloyd 1 Ton 3 Star Split Inverter AC  - White,3,1,1,26,3.7,"₹44,990","₹31,499",90,745.89
+701,LG,LG 1.5 Ton 2 Star Split Dual Inverter AC  - White,2,1.5,1,11,3.7,"₹47,900","₹34,900",111 - 150,1031.35
+702,ONIDA,ONIDA 1.5 Ton 5 Star Split Inverter AC  - White,5,1.5,137,832,4.3,"₹60,890","₹42,500",111 - 150,0
+703,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,,"₹49,990",111 - 150,883.14
+704,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+705,Daikin,Daikin 0.8 Ton 3 Star Split AC  - White,3,0.8,4,45,4,"₹30,000","₹26,999",90,0
+706,Blue,Blue Star Convertible 4 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter WiFi Inverter AC Multi S...,5,1.5,0,3,3.7,"₹71,750","₹47,500",111 - 150,867.55
+707,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,,"₹42,900",90,694.03
+708,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,,"₹54,900",111 - 150,744.39
+709,CARRIER,"CARRIER 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - Beige, Black",5,1.5,82,588,4,"₹79,890","₹47,300",111 - 150,871.59
+710,Lloyd,Lloyd 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,0,4,3.8,"₹60,990","₹36,990",111 - 150,1136.07
+711,Hitachi,"Hitachi 1.5 Ton 3 Star Split AC  - Gold, White",3,1.5,68,690,4,"₹47,690","₹37,899",111 - 150,1157.29
+712,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+713,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+714,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,990","₹34,490",90,524.03
+715,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+716,Panasonic,Panasonic 1 Ton 4 Star Split Inverter AC  - White,4,1,11,46,4.2,,"₹38,890",90,0
+717,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+718,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+719,CARRIER,"CARRIER Flexicool Convertible 6-in-1 Cooling 1.5 Ton 5 Star Split Inverter Auto Cleanser, Dual Filtrat...",5,1.5,"1,033","10,378",4.1,"₹74,090","₹47,000",111 - 150,841.86
+720,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,244,"2,635",4.1,"₹61,000","₹33,999",111 - 150,1052.15
+721,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+722,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+723,CARRIER,"CARRIER Flexicool Convertible 6-in-1 Cooling 1.5 Ton 5 Star Split Inverter Auto Cleanser, Dual Filtrat...",5,1.5,"1,033","10,378",4.1,"₹74,090","₹47,000",111 - 150,841.86
+724,Panasonic,Panasonic 1.5 Ton 4 Star Split AC with Wi-fi Connect  - White,4,1.5,0,5,3.6,"₹55,345","₹38,890",111 - 150,
+725,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+726,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+727,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+728,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+729,Lloyd,Lloyd 2023 Model 0.8 Ton 3 Star Split Inverter AC  - White,3,0.8,845,"5,000",4.2,"₹47,990","₹29,599",90,549.06
+730,Daikin,Daikin 1.8 Ton 3 Star Split AC  - White,3,1.8,3,8,3.6,,"₹48,000",151 - 200,0
+731,Panasonic,Panasonic 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect  - White,5,1.5,25,135,4.2,"₹69,900","₹48,700",111 - 150,848.28
+732,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+733,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+734,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+735,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
+736,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing and Tri Fi...,4,1.5,403,"4,378",4.1,"₹49,990","₹32,990",111 - 150,883.14
+737,ONIDA,ONIDA 2023 Model 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,939,"7,988",4.3,"₹43,900","₹29,990",111 - 150,969.15
+738,Panasonic,Panasonic 1 Ton 3 Star Split AC  - White,3,1,7,34,4.4,,"₹31,000",90,
+739,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 3 Star Split Inverter i-sense Technology with Blue ...,3,1,179,"1,726",4.1,"₹42,900","₹28,990",90,694.03
+740,Godrej,Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at ...,3,1.5,403,"4,378",4.1,"₹45,400","₹30,990",111 - 150,965.71
+741,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,14,127,4.3,,"₹61,990",111 - 150,1685
+742,Hitachi,Hitachi 1.5 Ton 3 Star Split Inverter AC  - Gold,3,1.5,307,"3,144",4,"₹52,700","₹52,699",111 - 150,1730
+743,Panasonic,Panasonic 1.5 Ton 3 Star Split Inverter AC with Wi-fi Connect  - White,3,1.5,"2,330","19,830",4.3,"₹50,000","₹41,910",111 - 150,1002.72
+744,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1 Ton 5 Star Split Inverter i-sense Technology with Blue ...,5,1,179,"1,726",4.1,"₹48,900","₹32,990",90,524.03
+745,Blue,"Blue Star 2023 Model 0.8 Ton 3 Star Split Inverter Multi Sensors, Self Clean Technology, Self Diagnosi...",3,0.8,"1,521","13,889",4.2,"₹41,500","₹27,999",90,521.6
+746,Voltas,Voltas 1.5 Ton 3 Star Split Inverter AC  - White,3,1.5,3,28,4.4,,"₹51,990",111 - 150,1096.98
+747,Hitachi,"Hitachi 2 Ton 3 Star Split Inverter AC  - White, Gold",3,2,1,34,4.2,,"₹59,590",151 - 200,0
+748,Godrej,Godrej 5-in-1 Convertible Cooling 2023 Model 1.5 Ton 5 Star Split Inverter i-sense Technology with Blu...,5,1.5,157,"1,090",4.1,"₹54,900","₹36,990",111 - 150,744.39
+749,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter Multi Sensors, Stabalize...",5,1.5,"1,521","13,889",4.2,"₹73,000","₹43,980",111 - 150,770.98
+750,LG,LG 1.5 Ton 5 Star Split Dual Inverter AC  - White,5,1.5,1,18,4.2,"₹83,990","₹51,890",111 - 150,968.61
+751,Daikin,Daikin 1.5 Ton 3 Star Split with PM 2.5 Filter AC with PM 2.5 Filter  - White,3,1.5,204,"2,045",4.3,"₹43,800","₹40,288",111 - 150,1425
+752,Hitachi,Hitachi 1 Ton 3 Star Split Inverter AC  - White,3,1,4,23,3.6,,"₹41,290",90,0
+753,Blue,"Blue Star Convertible 5 in 1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter Multi Sensors, Stabalize...",3,1.5,384,"4,478",4.1,"₹62,250","₹35,799",111 - 150,1002.84
+754,Blue,Blue Star 2023 Model 1.3 Ton 3 Star Split Inverter AC  - White,3,1.3,"1,521","13,889",4.2,"₹57,500","₹32,990",111 - 150,865.48
